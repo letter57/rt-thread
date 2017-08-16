@@ -11,6 +11,7 @@
 *.ilk
 build
 Debug
+Objects
 documentation/html
 *~
 *.o
